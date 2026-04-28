@@ -86,6 +86,3 @@ Talaja Road, Bhavnagar – 364001
 9099546868  
 
 ---
-## 📄 License
-
-This project can be licensed based on your use case.
